@@ -337,6 +337,12 @@ of code below the Schedule `<h2>` header below with
 
 <hr/>
 
+<h2 id="reference">Reference</h2>
+<p>
+  All reference material for the syllabus covered and more can be found at http://swcarpentry.github.io/r-novice-gapminder/
+</p>
+<hr/>
+
 
 {% comment %}
 SETUP
