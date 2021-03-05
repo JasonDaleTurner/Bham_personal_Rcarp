@@ -282,6 +282,15 @@ of code below the Schedule `<h2>` header below with
 {% endif %}
 
 <hr/>
+<h2 id="dates">Date and time</h2>
+<p>
+  Day 1 10/03/21 0930-1200
+  Day 2 15/03/21 0930-1200
+  Day 3 17/03/21 0930-1200
+  Day 4 22/03/21 0930-1200
+  Day 5 29/03/21 0930-1200
+</p>
+<hr/>
 
 <h2 id="reference">Reference</h2>
 <p>
